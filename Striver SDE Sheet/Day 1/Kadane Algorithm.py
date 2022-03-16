@@ -2,7 +2,7 @@
 
 #Solution link(Python3): https://practice.geeksforgeeks.org/viewSol.php?subId=005f7afe6786389a6c463128e326fa20&pid=701215&user=tiabhi1999
 
-import math
+
 
 class Solution:
 
